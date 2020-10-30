@@ -6,7 +6,7 @@
 - [Server Site Code](https://github.com/MinhazulHasan/creative-agency-server "Click For View Server Site Code")
 ***
 ## Description
-A full stack web application about a IT service Provider. You can check which services we are providing. Then you can place a order with project details. In the cilent page, registered user also can see their order, a give feedback which will also show in the UI. In admin dashboard, admin can see all orders placed by the clients, delete or edit their current status. Admin can add a new service & also create another Admin through email of this site.
+A full-stack web application about an IT service provider. You can check which services we are providing. Then you can place an order with project details. On the client page, the registered user also can see their order, give feedback which will also show in the UI. In the admin dashboard, the admin can see all orders placed by the clients, delete or edit their current status. Admin can add a new service & also create another Admin through email of this site.
 ***
 ## Functionality
 - Exclusive Looking UI
