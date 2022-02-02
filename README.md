@@ -2,7 +2,7 @@
 ---
 ### A Full Stack about IT Service Provider
 - [Live Website](https://creative-agency-d60a9.web.app/ "Click For View Live Site")
-- [Clint Site Code](https://github.com/MinhazulHasan/creative-agency-client "Click For View Clint Site Code")
+- [Client Site Code](https://github.com/MinhazulHasan/creative-agency-client "Click For View Clint Site Code")
 - [Server Site Code](https://github.com/MinhazulHasan/creative-agency-server "Click For View Server Site Code")
 ***
 ## Description
